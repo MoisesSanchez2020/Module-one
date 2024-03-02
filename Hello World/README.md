@@ -12,7 +12,7 @@ The software consists of a single Python script that prints "Hello World" to the
 
 The purpose of creating this software is to demonstrate proficiency in Python programming and to serve as a starting point for further exploration of Python development.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/aCq85dRtxCs)
 
 # Development Environment
 
